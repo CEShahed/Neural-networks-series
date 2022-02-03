@@ -47,11 +47,8 @@
 
 راستش این قسمت برای خودمون هم ابهام بود و هست ( با وجود خوندن مقاله ها ).
 
-[مقاله اول](https://arxiv.org/abs/1611.03530)
-[مقاله نقیض مقاله اول](https://arxiv.org/abs/1706.05394)
-[مقاله دوم](https://arxiv.org/abs/1412.0233)
-
-[لینک کتابی که برای یادگیری شبکه عصبی معرفی شد](http://neuralnetworksanddeeplearning.com/)
-
-
- [سایت DISTILL](https://distill.pub/) که در حوزه یادگیری ماشین و هوض مصنوعی مقاله میزاره
+* [مقاله اول](https://arxiv.org/abs/1611.03530)
+* [مقاله نقیض مقاله اول](https://arxiv.org/abs/1706.05394)
+* [مقاله دوم](https://arxiv.org/abs/1412.0233)
+* [لینک کتابی که برای یادگیری شبکه عصبی معرفی شد](http://neuralnetworksanddeeplearning.com/)
+* [سایت DISTILL](https://distill.pub/) که در حوزه یادگیری ماشین و هوض مصنوعی مقاله میزاره
